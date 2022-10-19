@@ -1,0 +1,17 @@
+{
+  "name": "LOTTOVIP",
+  "main": "lottovip",
+  "theme": "syntax",
+  "version": "1.1.1",
+  "description": "LOTTOVIP เว็บซื้อหวยออนไลน์ที่มาแรงที่สุดในปี 2022 ด้วยการจ่ายที่มากถึงบาทละ 950 มีหวยครบจบได้ในเว็บเดียว และมีเกมสล็อตของค่าย PG เร็วแรงเล่นยังไงก็แตกแน่นอน",
+  "keywords": [
+    "lottovip",
+    "ซื้อหวยออนไลน์",
+    "หวยออนไลน์"
+  ],
+  "repository": "https://github.com/developnumber01/testatom191065phu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
